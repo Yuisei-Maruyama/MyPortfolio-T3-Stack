@@ -22,3 +22,15 @@ pnpm prisma migrate dev --name init
 
 - Discord: https://qiita.com/masayoshi4649/items/46fdb744cb8255f5eb98
 - Google: https://zenn.dev/cloud_ace/articles/try-t3-stack-app
+
+## Tailwind CSS
+
+https://tailwindcss.com/docs/installation
+
+## Mantain UI
+
+https://ui.mantine.dev/#main
+
+## icons
+
+@tabler/icons
